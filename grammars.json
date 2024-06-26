@@ -1,6 +1,6 @@
 [
     {
-        "name": "abb",
+        "name": "z_internal_abb",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/abb/abbLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/abb/abbParser.g4",
         "start": "module_",
@@ -9,7 +9,7 @@
         ]
     },
     {
-        "name": "a_owls_expr",
+        "name": "owls_expr",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owls_expr.g4",
         "start": "root",
@@ -18,7 +18,7 @@
         ]
     },
     {
-        "name": "Abnf",
+        "name": "z_internal_Abnf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/abnf/Abnf.g4",
         "start": "rulelist",
@@ -29,7 +29,7 @@
         ]
     },
     {
-        "name": "acme",
+        "name": "z_internal_acme",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/acme/acme.g4",
         "start": "acmeCompUnit",
@@ -49,7 +49,7 @@
         ]
     },
     {
-        "name": "action",
+        "name": "z_internal_action",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/action/action.g4",
         "start": "file_",
@@ -60,7 +60,7 @@
         ]
     },
     {
-        "name": "Ada2005",
+        "name": "z_internal_Ada2005",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ada/ada2005/Ada2005Lexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ada/ada2005/Ada2005Parser.g4",
         "start": "compilation",
@@ -70,7 +70,7 @@
         ]
     },
     {
-        "name": "Ada",
+        "name": "z_internal_Ada",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ada/ada2012/AdaLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ada/ada2012/AdaParser.g4",
         "start": "compilation",
@@ -80,7 +80,7 @@
         ]
     },
     {
-        "name": "Ada83",
+        "name": "z_internal_Ada83",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ada/ada83/Ada83Lexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ada/ada83/Ada83Parser.g4",
         "start": "compilation",
@@ -90,7 +90,7 @@
         ]
     },
     {
-        "name": "Ada95",
+        "name": "z_internal_Ada95",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ada/ada95/Ada95Lexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ada/ada95/Ada95Parser.g4",
         "start": "compilation",
@@ -100,7 +100,7 @@
         ]
     },
     {
-        "name": "agc",
+        "name": "z_internal_agc",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/agc/agc.g4",
         "start": "prog",
@@ -122,7 +122,7 @@
         ]
     },
     {
-        "name": "alef",
+        "name": "z_internal_alef",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/alef/alef.g4",
         "start": "program",
@@ -131,7 +131,7 @@
         ]
     },
     {
-        "name": "algol60",
+        "name": "z_internal_algol60",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/algol60/algol60.g4",
         "start": "program",
@@ -146,7 +146,7 @@
         ]
     },
     {
-        "name": "alloy",
+        "name": "z_internal_alloy",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/alloy/alloy.g4",
         "start": "alloyModule",
@@ -157,7 +157,7 @@
         ]
     },
     {
-        "name": "alpaca",
+        "name": "z_internal_alpaca",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/alpaca/alpaca.g4",
         "start": "prog",
@@ -166,7 +166,7 @@
         ]
     },
     {
-        "name": "ASL",
+        "name": "z_internal_ASL",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/amazon-states-language/ASLLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/amazon-states-language/ASLParser.g4",
         "start": "state_machine",
@@ -183,7 +183,7 @@
         ]
     },
     {
-        "name": "ASLIntrinsic",
+        "name": "z_internal_ASLIntrinsic",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/amazon-states-language-intrinsic-functions/ASLIntrinsicLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/amazon-states-language-intrinsic-functions/ASLIntrinsicParser.g4",
         "start": "intrinsic_function",
@@ -210,7 +210,7 @@
         ]
     },
     {
-        "name": "angelscript",
+        "name": "z_internal_angelscript",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/angelscript/angelscript.g4",
         "start": "script",
@@ -219,7 +219,7 @@
         ]
     },
     {
-        "name": "ArangoDb",
+        "name": "z_internal_ArangoDb",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/aql/ArangoDbLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/aql/ArangoDbParser.g4",
         "start": "arangodb_query",
@@ -251,7 +251,7 @@
         ]
     },
     {
-        "name": "ARDEN",
+        "name": "z_internal_ARDEN",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/arden/ArdenParser.g4",
         "start": "mlms",
@@ -264,7 +264,7 @@
         ]
     },
     {
-        "name": "arithmetic",
+        "name": "z_internal_arithmetic",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/arithmetic/arithmetic.g4",
         "start": "file_",
@@ -290,7 +290,7 @@
         ]
     },
     {
-        "name": "ASL",
+        "name": "z_internal_ASL",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asl/ASL.g4",
         "start": "asl",
@@ -315,7 +315,7 @@
         ]
     },
     {
-        "name": "asm6502",
+        "name": "z_internal_asm6502",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/asm6502/asm6502.g4",
         "start": "prog",
@@ -331,7 +331,7 @@
         ]
     },
     {
-        "name": "asm8080",
+        "name": "z_internal_asm8080",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/asm8080/asm8080.g4",
         "start": "prog",
@@ -340,7 +340,7 @@
         ]
     },
     {
-        "name": "asm8086",
+        "name": "z_internal_asm8086",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/asm8086/asm8086.g4",
         "start": "prog",
@@ -357,7 +357,7 @@
         ]
     },
     {
-        "name": "asmMASM",
+        "name": "z_internal_asmMASM",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/asmMASM/asmMASM.g4",
         "start": "prog",
@@ -368,7 +368,7 @@
         ]
     },
     {
-        "name": "Riscv64G",
+        "name": "z_internal_Riscv64G",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/asmRISCV/Riscv64G.g4",
         "start": "prog",
@@ -378,7 +378,7 @@
         ]
     },
     {
-        "name": "asmZ80",
+        "name": "z_internal_asmZ80",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/asmZ80/asmZ80.g4",
         "start": "prog",
@@ -387,7 +387,7 @@
         ]
     },
     {
-        "name": "nasm_x86_64_",
+        "name": "z_internal_nasm_x86_64_",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/nasm/nasm_x86_64_Lexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/nasm/nasm_x86_64_Parser.g4",
         "start": "program",
@@ -408,7 +408,7 @@
         ]
     },
     {
-        "name": "pdp7",
+        "name": "z_internal_pdp7",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/pdp7/pdp7.g4",
         "start": "prog",
@@ -466,7 +466,7 @@
         ]
     },
     {
-        "name": "PTX",
+        "name": "z_internal_PTX",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/ptx/ptx-isa-1.0/PTXLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/ptx/ptx-isa-1.0/PTXParser.g4",
         "start": "prog",
@@ -475,7 +475,7 @@
         ]
     },
     {
-        "name": "Ptx",
+        "name": "z_internal_Ptx",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asm/ptx/ptx-isa-2.1/Ptx.g4",
         "start": "prog",
@@ -677,7 +677,7 @@
         ]
     },
     {
-        "name": "ASN",
+        "name": "z_internal_ASN",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/asn/asn/ASN.g4",
         "start": "modules",
@@ -687,7 +687,7 @@
         ]
     },
     {
-        "name": "aterm",
+        "name": "z_internal_aterm",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/aterm/aterm.g4",
         "start": "aterm_",
@@ -710,7 +710,7 @@
         ]
     },
     {
-        "name": "awk",
+        "name": "z_internal_awk",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/awk/awk.g4",
         "start": "program",
@@ -721,7 +721,7 @@
         ]
     },
     {
-        "name": "b",
+        "name": "z_internal_b",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/b/b.g4",
         "start": "program",
@@ -736,7 +736,7 @@
         ]
     },
     {
-        "name": "jvmBasic",
+        "name": "z_internal_jvmBasic",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/basic/jvmBasic.g4",
         "start": "prog",
@@ -762,7 +762,7 @@
         ]
     },
     {
-        "name": "bdf",
+        "name": "z_internal_bdf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/bdf/bdf.g4",
         "start": "font",
@@ -774,7 +774,7 @@
         ]
     },
     {
-        "name": "bibcode",
+        "name": "z_internal_bibcode",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/bibcode/bibcode.g4",
         "start": "bibcode",
@@ -786,7 +786,7 @@
         ]
     },
     {
-        "name": "BibTeX",
+        "name": "z_internal_BibTeX",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/bibtex/BibTeXLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/bibtex/BibTeXLexer.g4",
         "start": "bibTex",
@@ -795,7 +795,7 @@
         ]
     },
     {
-        "name": "Bicep",
+        "name": "z_internal_Bicep",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/bicep/Bicep.g4",
         "start": "program",
@@ -814,7 +814,7 @@
         ]
     },
     {
-        "name": "C",
+        "name": "z_internal_C",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/c/C.g4",
         "start": "compilationUnit",
@@ -840,7 +840,7 @@
         ]
     },
     {
-        "name": "calculator",
+        "name": "z_internal_calculator",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/calculator/calculator.g4",
         "start": "equation",
@@ -869,7 +869,7 @@
         ]
     },
     {
-        "name": "callable_",
+        "name": "z_internal_callable_",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/callable/callable_.g4",
         "start": "program",
@@ -880,7 +880,7 @@
         ]
     },
     {
-        "name": "CapnProto",
+        "name": "z_internal_CapnProto",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/capnproto/CapnProto.g4",
         "start": "document",
@@ -896,7 +896,7 @@
         ]
     },
     {
-        "name": "CaQL",
+        "name": "z_internal_CaQL",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/caql/CaQL.g4",
         "start": "start_",
@@ -912,7 +912,7 @@
         ]
     },
     {
-        "name": "chip8",
+        "name": "z_internal_chip8",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/chip8/chip8.g4",
         "start": "file_",
@@ -921,7 +921,7 @@
         ]
     },
     {
-        "name": "clf",
+        "name": "z_internal_clf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/clf/clf.g4",
         "start": "log",
@@ -933,7 +933,7 @@
         ]
     },
     {
-        "name": "CLIF",
+        "name": "z_internal_CLIF",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/clif/CLIF.g4",
         "start": "termseq",
@@ -942,7 +942,7 @@
         ]
     },
     {
-        "name": "Clojure",
+        "name": "z_internal_Clojure",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/clojure/Clojure.g4",
         "start": "file_",
@@ -951,7 +951,7 @@
         ]
     },
     {
-        "name": "clu",
+        "name": "z_internal_clu",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/clu/clu.g4",
         "start": "module",
@@ -961,7 +961,7 @@
         ]
     },
     {
-        "name": "CMake",
+        "name": "z_internal_CMake",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cmake/CMake.g4",
         "start": "file_",
@@ -970,7 +970,7 @@
         ]
     },
     {
-        "name": "Cobol85",
+        "name": "z_internal_Cobol85",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cobol85/Cobol85Preprocessor.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cobol85/Cobol85Preprocessor.g4",
         "start": "startRule",
@@ -979,7 +979,7 @@
         ]
     },
     {
-        "name": "CodeQL",
+        "name": "z_internal_CodeQL",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/codeql/CodeQLLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/codeql/CodeQLParser.g4",
         "start": "ql",
@@ -996,7 +996,7 @@
         ]
     },
     {
-        "name": "cookie",
+        "name": "z_internal_cookie",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cookie/cookie.g4",
         "start": "cookie",
@@ -1008,7 +1008,7 @@
         ]
     },
     {
-        "name": "cql",
+        "name": "z_internal_cql",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cql/cql.g4",
         "start": "cql",
@@ -1022,7 +1022,7 @@
         ]
     },
     {
-        "name": "Cql",
+        "name": "z_internal_Cql",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cql3/CqlLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cql3/CqlParser.g4",
         "start": "root",
@@ -1067,7 +1067,7 @@
         ]
     },
     {
-        "name": "creole",
+        "name": "z_internal_creole",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/creole/creole.g4",
         "start": "document",
@@ -1082,7 +1082,7 @@
         ]
     },
     {
-        "name": "css3",
+        "name": "z_internal_css3",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/css3/css3Lexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/css3/css3Parser.g4",
         "start": "stylesheet",
@@ -1110,7 +1110,7 @@
         ]
     },
     {
-        "name": "CSV",
+        "name": "z_internal_CSV",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/csv/CSV.g4",
         "start": "csvFile",
@@ -1119,7 +1119,7 @@
         ]
     },
     {
-        "name": "ctl",
+        "name": "z_internal_ctl",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ctl/ctl.g4",
         "start": "file_",
@@ -1128,7 +1128,7 @@
         ]
     },
     {
-        "name": "Cto",
+        "name": "z_internal_Cto",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cto/CtoLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cto/CtoParser.g4",
         "start": "modelUnit",
@@ -1142,7 +1142,7 @@
         ]
     },
     {
-        "name": "Cypher",
+        "name": "z_internal_Cypher",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cypher/CypherLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/cypher/CypherParser.g4",
         "start": "script",
@@ -1203,7 +1203,7 @@
         ]
     },
     {
-        "name": "DiceNotation",
+        "name": "z_internal_DiceNotation",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/dice/DiceNotationLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/dice/DiceNotationParser.g4",
         "start": "file_",
@@ -1229,7 +1229,7 @@
         ]
     },
     {
-        "name": "dif",
+        "name": "z_internal_dif",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/dif/dif.g4",
         "start": "dif",
@@ -1239,7 +1239,7 @@
         ]
     },
     {
-        "name": "doiurl",
+        "name": "z_internal_doiurl",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/doiurl/doiurl.g4",
         "start": "doiuri",
@@ -1261,7 +1261,7 @@
         ]
     },
     {
-        "name": "DOT",
+        "name": "z_internal_DOT",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/dot/DOT.g4",
         "start": "graph",
@@ -1272,7 +1272,7 @@
         ]
     },
     {
-        "name": "bnf",
+        "name": "z_internal_bnf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ebnf/bnf.g4",
         "start": "rulelist",
@@ -1281,7 +1281,7 @@
         ]
     },
     {
-        "name": "EDIF300",
+        "name": "z_internal_EDIF300",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/edif300/EDIF300.g4",
         "start": "goal",
@@ -1290,7 +1290,7 @@
         ]
     },
     {
-        "name": "edn",
+        "name": "z_internal_edn",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/edn/edn.g4",
         "start": "program",
@@ -1326,7 +1326,7 @@
         ]
     },
     {
-        "name": "Elixir",
+        "name": "z_internal_Elixir",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/elixir/ElixirLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/elixir/ElixirParser.g4",
         "start": "parse",
@@ -1392,7 +1392,7 @@
         ]
     },
     {
-        "name": "Erlang",
+        "name": "z_internal_Erlang",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/erlang/Erlang.g4",
         "start": "forms",
@@ -1404,7 +1404,7 @@
         ]
     },
     {
-        "name": "brainflak",
+        "name": "z_internal_brainflak",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/brainflak/brainflak.g4",
         "start": "file_",
@@ -1415,7 +1415,7 @@
         ]
     },
     {
-        "name": "brainfuck",
+        "name": "z_internal_brainfuck",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/brainfuck/brainfuck.g4",
         "start": "file_",
@@ -1429,7 +1429,7 @@
         ]
     },
     {
-        "name": "COOL",
+        "name": "z_internal_COOL",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/cool/COOL.g4",
         "start": "program",
@@ -1457,7 +1457,7 @@
         ]
     },
     {
-        "name": "lolcode",
+        "name": "z_internal_lolcode",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/lolcode/lolcode.g4",
         "start": "program",
@@ -1466,7 +1466,7 @@
         ]
     },
     {
-        "name": "loop",
+        "name": "z_internal_loop",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/loop/loop.g4",
         "start": "prog",
@@ -1477,7 +1477,7 @@
         ]
     },
     {
-        "name": "nanofuck",
+        "name": "z_internal_nanofuck",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/nanofuck/nanofuck.g4",
         "start": "file_",
@@ -1487,7 +1487,7 @@
         ]
     },
     {
-        "name": "sickbay",
+        "name": "z_internal_sickbay",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/sickbay/sickbay.g4",
         "start": "sickbay",
@@ -1496,7 +1496,7 @@
         ]
     },
     {
-        "name": "snowball",
+        "name": "z_internal_snowball",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/snowball/snowball.g4",
         "start": "program",
@@ -1505,7 +1505,7 @@
         ]
     },
     {
-        "name": "wheel",
+        "name": "z_internal_wheel",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/esolang/wheel/wheel.g4",
         "start": "file_",
@@ -1516,7 +1516,7 @@
         ]
     },
     {
-        "name": "EVMB",
+        "name": "z_internal_EVMB",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/evm-bytecode/EVMBLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/evm-bytecode/EVMBParser.g4",
         "start": "program",
@@ -1525,7 +1525,7 @@
         ]
     },
     {
-        "name": "fasta",
+        "name": "z_internal_fasta",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/fasta/fasta.g4",
         "start": "sequence",
@@ -1536,7 +1536,7 @@
         ]
     },
     {
-        "name": "fdo91",
+        "name": "z_internal_fdo91",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/fdo91/fdo91.g4",
         "start": "file_",
@@ -1557,7 +1557,7 @@
         ]
     },
     {
-        "name": "fen",
+        "name": "z_internal_fen",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/fen/fen.g4",
         "start": "fen",
@@ -1569,7 +1569,7 @@
         ]
     },
     {
-        "name": "FlatBuffers",
+        "name": "z_internal_FlatBuffers",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/flatbuffers/FlatBuffers.g4",
         "start": "schema",
@@ -1595,7 +1595,7 @@
         ]
     },
     {
-        "name": "flowmatic",
+        "name": "z_internal_flowmatic",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/flowmatic/flowmatic.g4",
         "start": "flowmatic",
@@ -1604,7 +1604,7 @@
         ]
     },
     {
-        "name": "focal",
+        "name": "z_internal_focal",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/focal/focal.g4",
         "start": "prog",
@@ -1613,7 +1613,7 @@
         ]
     },
     {
-        "name": "fol",
+        "name": "z_internal_fol",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/fol/fol.g4",
         "start": "condition",
@@ -1624,7 +1624,7 @@
         ]
     },
     {
-        "name": "DesktopEntry",
+        "name": "z_internal_DesktopEntry",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/freedesktop/desktop-entry/DesktopEntryLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/freedesktop/desktop-entry/DesktopEntryParser.g4",
         "start": "desktop_entry",
@@ -1634,7 +1634,7 @@
         ]
     },
     {
-        "name": "gedcom",
+        "name": "z_internal_gedcom",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/gedcom/gedcom.g4",
         "start": "gedcom",
@@ -1643,7 +1643,7 @@
         ]
     },
     {
-        "name": "gff3",
+        "name": "z_internal_gff3",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/gff3/gff3.g4",
         "start": "document",
@@ -1653,7 +1653,7 @@
         ]
     },
     {
-        "name": "GLSL",
+        "name": "z_internal_GLSL",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/glsl/GLSLLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/glsl/GLSLParser.g4",
         "start": "translation_unit",
@@ -1694,7 +1694,7 @@
         ]
     },
     {
-        "name": "gml",
+        "name": "z_internal_gml",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/gml/gml.g4",
         "start": "graph",
@@ -1707,7 +1707,7 @@
         ]
     },
     {
-        "name": "DGS",
+        "name": "z_internal_DGS",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/graphstream-dgs/DGSLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/graphstream-dgs/DGSParser.g4",
         "start": "dgs",
@@ -1726,7 +1726,7 @@
         ]
     },
     {
-        "name": "gtin",
+        "name": "z_internal_gtin",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/gtin/gtin.g4",
         "start": "gtin",
@@ -1746,7 +1746,7 @@
         ]
     },
     {
-        "name": "guido",
+        "name": "z_internal_guido",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/guido/guido.g4",
         "start": "prog",
@@ -1757,7 +1757,7 @@
         ]
     },
     {
-        "name": "guitartab",
+        "name": "z_internal_guitartab",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/guitartab/guitartab.g4",
         "start": "tab",
@@ -1770,7 +1770,7 @@
         ]
     },
     {
-        "name": "HTML",
+        "name": "z_internal_HTML",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/html/HTMLLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/html/HTMLParser.g4",
         "start": "htmlDocument",
@@ -1799,7 +1799,7 @@
         ]
     },
     {
-        "name": "HyperTalk",
+        "name": "z_internal_HyperTalk",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/hypertalk/HyperTalk.g4",
         "start": "script",
@@ -1808,7 +1808,7 @@
         ]
     },
     {
-        "name": "ICalendar",
+        "name": "z_internal_ICalendar",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/icalendar/ICalendar.g4",
         "start": "parse",
@@ -1817,7 +1817,7 @@
         ]
     },
     {
-        "name": "icon",
+        "name": "z_internal_icon",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/icon/icon.g4",
         "start": "start",
@@ -1826,7 +1826,7 @@
         ]
     },
     {
-        "name": "IDL",
+        "name": "z_internal_IDL",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/idl/IDL.g4",
         "start": "specification",
@@ -1836,7 +1836,7 @@
         ]
     },
     {
-        "name": "inf",
+        "name": "z_internal_inf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/inf/inf.g4",
         "start": "inf",
@@ -1847,7 +1847,7 @@
         ]
     },
     {
-        "name": "informix",
+        "name": "z_internal_informix",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/informix/informix.g4",
         "start": "compilation_unit",
@@ -1858,7 +1858,7 @@
         ]
     },
     {
-        "name": "IRI",
+        "name": "z_internal_IRI",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/iri/IRI.g4",
         "start": "parse",
@@ -1868,7 +1868,7 @@
         ]
     },
     {
-        "name": "iso8601",
+        "name": "z_internal_iso8601",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/iso8601/iso8601.g4",
         "start": "iso",
@@ -1942,7 +1942,7 @@
         ]
     },
     {
-        "name": "istc",
+        "name": "z_internal_istc",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/istc/istc.g4",
         "start": "istc",
@@ -1951,7 +1951,7 @@
         ]
     },
     {
-        "name": "itn",
+        "name": "z_internal_itn",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/itn/itn.g4",
         "start": "itinerary",
@@ -1960,7 +1960,7 @@
         ]
     },
     {
-        "name": "jam",
+        "name": "z_internal_jam",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/jam/jam.g4",
         "start": "jam",
@@ -1974,7 +1974,7 @@
         ]
     },
     {
-        "name": "janus",
+        "name": "z_internal_janus",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/janus/janus.g4",
         "start": "program",
@@ -1983,7 +1983,7 @@
         ]
     },
     {
-        "name": "Java",
+        "name": "z_internal_Java",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/java/java/JavaLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/java/java/JavaParser.g4",
         "start": "compilationUnit",
@@ -2005,7 +2005,7 @@
         ]
     },
     {
-        "name": "Java20",
+        "name": "z_internal_Java20",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/java/java20/Java20Lexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/java/java20/Java20Parser.g4",
         "start": "start_",
@@ -2020,7 +2020,7 @@
         ]
     },
     {
-        "name": "Java8",
+        "name": "z_internal_Java8",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/java/java8/Java8Lexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/java/java8/Java8Parser.g4",
         "start": "compilationUnit",
@@ -2033,7 +2033,7 @@
         ]
     },
     {
-        "name": "JPA",
+        "name": "z_internal_JPA",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/jpa/JPA.g4",
         "start": "file_",
@@ -2042,7 +2042,7 @@
         ]
     },
     {
-        "name": "JSON",
+        "name": "z_internal_JSON",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/json/JSON.g4",
         "start": "json",
@@ -2052,7 +2052,7 @@
         ]
     },
     {
-        "name": "JSON5",
+        "name": "z_internal_JSON5",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/json5/JSON5.g4",
         "start": "json5",
@@ -2065,7 +2065,7 @@
         ]
     },
     {
-        "name": "karel",
+        "name": "z_internal_karel",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/karel/karel.g4",
         "start": "karel",
@@ -2074,7 +2074,7 @@
         ]
     },
     {
-        "name": "Kotlin",
+        "name": "z_internal_Kotlin",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/kotlin/kotlin/KotlinLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/kotlin/kotlin/KotlinLexer.g4",
         "start": "kotlinFile",
@@ -2099,7 +2099,7 @@
         ]
     },
     {
-        "name": "Kotlin",
+        "name": "z_internal_Kotlin",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/kotlin/kotlin-formal/KotlinLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/kotlin/kotlin-formal/KotlinParser.g4",
         "start": "kotlinFile",
@@ -2195,7 +2195,7 @@
         ]
     },
     {
-        "name": "KQuery",
+        "name": "z_internal_KQuery",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/kquery/KQuery.g4",
         "start": "kqueryExpression",
@@ -2211,7 +2211,7 @@
         ]
     },
     {
-        "name": "krl",
+        "name": "z_internal_krl",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/kuka/krl.g4",
         "start": "module",
@@ -2220,7 +2220,7 @@
         ]
     },
     {
-        "name": "lambda",
+        "name": "z_internal_lambda",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lambda/lambda.g4",
         "start": "file_",
@@ -2233,7 +2233,7 @@
         ]
     },
     {
-        "name": "Lark",
+        "name": "z_internal_Lark",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lark/LarkLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lark/LarkParser.g4",
         "start": "start",
@@ -2275,7 +2275,7 @@
         ]
     },
     {
-        "name": "lcc",
+        "name": "z_internal_lcc",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lcc/lcc.g4",
         "start": "lcc",
@@ -2292,7 +2292,7 @@
         ]
     },
     {
-        "name": "Less",
+        "name": "z_internal_Less",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/less/LessLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/less/LessParser.g4",
         "start": "stylesheet",
@@ -2301,7 +2301,7 @@
         ]
     },
     {
-        "name": "limbo",
+        "name": "z_internal_limbo",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/limbo/limbo.g4",
         "start": "program",
@@ -2310,7 +2310,7 @@
         ]
     },
     {
-        "name": "lisa",
+        "name": "z_internal_lisa",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lisa/lisa.g4",
         "start": "program",
@@ -2319,7 +2319,7 @@
         ]
     },
     {
-        "name": "LLVMIR",
+        "name": "z_internal_LLVMIR",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/llvm-ir/LLVMIR.g4",
         "start": "compilationUnit",
@@ -2356,7 +2356,7 @@
         ]
     },
     {
-        "name": "logo",
+        "name": "z_internal_logo",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/logo/logo/logo.g4",
         "start": "prog",
@@ -2386,7 +2386,7 @@
         ]
     },
     {
-        "name": "lrc",
+        "name": "z_internal_lrc",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lrc/lrcLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lrc/lrcParser.g4",
         "start": "lrc",
@@ -2395,7 +2395,7 @@
         ]
     },
     {
-        "name": "ltl",
+        "name": "z_internal_ltl",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ltl/ltl.g4",
         "start": "file_",
@@ -2404,7 +2404,7 @@
         ]
     },
     {
-        "name": "Lucene",
+        "name": "z_internal_Lucene",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lucene/LuceneLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/lucene/LuceneParser.g4",
         "start": "topLevelQuery",
@@ -2436,7 +2436,7 @@
         ]
     },
     {
-        "name": "matlab",
+        "name": "z_internal_matlab",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/matlab/matlab.g4",
         "start": "file_",
@@ -2447,7 +2447,7 @@
         ]
     },
     {
-        "name": "McKeemanForm",
+        "name": "z_internal_McKeemanForm",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/mckeeman-form/McKeemanForm.g4",
         "start": "grammar_",
@@ -2457,7 +2457,7 @@
         ]
     },
     {
-        "name": "mdx",
+        "name": "z_internal_mdx",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/mdx/mdx.g4",
         "start": "mdx_statement",
@@ -2468,7 +2468,7 @@
         ]
     },
     {
-        "name": "memcached_protocol",
+        "name": "z_internal_memcached_protocol",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/memcached_protocol/memcached_protocol.g4",
         "start": "command_line",
@@ -2477,7 +2477,7 @@
         ]
     },
     {
-        "name": "metamath",
+        "name": "z_internal_metamath",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/metamath/metamath.g4",
         "start": "database",
@@ -2487,7 +2487,7 @@
         ]
     },
     {
-        "name": "metric",
+        "name": "z_internal_metric",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/metric/metric.g4",
         "start": "file_",
@@ -2508,7 +2508,7 @@
         ]
     },
     {
-        "name": "microc",
+        "name": "z_internal_microc",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/microc/microc.g4",
         "start": "program",
@@ -2519,7 +2519,7 @@
         ]
     },
     {
-        "name": "modelica",
+        "name": "z_internal_modelica",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/modelica/modelica.g4",
         "start": "stored_definition",
@@ -2535,7 +2535,7 @@
         ]
     },
     {
-        "name": "molecule",
+        "name": "z_internal_molecule",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/molecule/molecule.g4",
         "start": "molecule",
@@ -2557,7 +2557,7 @@
         ]
     },
     {
-        "name": "moo",
+        "name": "z_internal_moo",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/moo/moo.g4",
         "start": "prog",
@@ -2572,7 +2572,7 @@
         ]
     },
     {
-        "name": "morsecode",
+        "name": "z_internal_morsecode",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/morsecode/morsecode.g4",
         "start": "morsecode",
@@ -2582,7 +2582,7 @@
         ]
     },
     {
-        "name": "mps",
+        "name": "z_internal_mps",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/mps/mps.g4",
         "start": "modell",
@@ -2593,7 +2593,7 @@
         ]
     },
     {
-        "name": "muddb",
+        "name": "z_internal_muddb",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/muddb/muddb.g4",
         "start": "db",
@@ -2603,7 +2603,7 @@
         ]
     },
     {
-        "name": "mumath",
+        "name": "z_internal_mumath",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/mumath/mumath.g4",
         "start": "program",
@@ -2612,7 +2612,7 @@
         ]
     },
     {
-        "name": "mumps",
+        "name": "z_internal_mumps",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/mumps/mumps.g4",
         "start": "program",
@@ -2630,7 +2630,7 @@
         ]
     },
     {
-        "name": "MuParser",
+        "name": "z_internal_MuParser",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/muparser/MuParser.g4",
         "start": "prog",
@@ -2639,7 +2639,7 @@
         ]
     },
     {
-        "name": "newick",
+        "name": "z_internal_newick",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/newick/newick.g4",
         "start": "tree_",
@@ -2655,7 +2655,7 @@
         ]
     },
     {
-        "name": "oberon",
+        "name": "z_internal_oberon",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/oberon/oberon.g4",
         "start": "module",
@@ -2664,7 +2664,7 @@
         ]
     },
     {
-        "name": "OCL",
+        "name": "z_internal_OCL",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ocl/OCL.g4",
         "start": "specification",
@@ -2673,7 +2673,7 @@
         ]
     },
     {
-        "name": "oncrpcv2",
+        "name": "z_internal_oncrpcv2",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/oncrpc/oncrpcv2.g4",
         "start": "oncrpcv2Specification",
@@ -2682,7 +2682,7 @@
         ]
     },
     {
-        "name": "orwell",
+        "name": "z_internal_orwell",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/orwell/orwell.g4",
         "start": "program",
@@ -2693,7 +2693,7 @@
         ]
     },
     {
-        "name": "p",
+        "name": "z_internal_p",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/p/p.g4",
         "start": "prog",
@@ -2703,7 +2703,7 @@
         ]
     },
     {
-        "name": "parkingsign",
+        "name": "z_internal_parkingsign",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/parkingsign/parkingsign.g4",
         "start": "parkingSigns",
@@ -2712,7 +2712,7 @@
         ]
     },
     {
-        "name": "pascal",
+        "name": "z_internal_pascal",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/pascal/pascal.g4",
         "start": "program",
@@ -2736,7 +2736,7 @@
         ]
     },
     {
-        "name": "pbm",
+        "name": "z_internal_pbm",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/pbm/pbm.g4",
         "start": "file_",
@@ -2745,7 +2745,7 @@
         ]
     },
     {
-        "name": "PCRE",
+        "name": "z_internal_PCRE",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/pcre/PCRE.g4",
         "start": "pcre",
@@ -2787,7 +2787,7 @@
         ]
     },
     {
-        "name": "pdn",
+        "name": "z_internal_pdn",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/pdn/pdn.g4",
         "start": "game",
@@ -2798,7 +2798,7 @@
         ]
     },
     {
-        "name": "PeopleCode",
+        "name": "z_internal_PeopleCode",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/peoplecode/PeopleCode.g4",
         "start": "program",
@@ -2825,7 +2825,7 @@
         ]
     },
     {
-        "name": "pf",
+        "name": "z_internal_pf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/pf/pf.g4",
         "start": "file_",
@@ -2844,7 +2844,7 @@
         ]
     },
     {
-        "name": "pii",
+        "name": "z_internal_pii",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/pii/pii.g4",
         "start": "pii",
@@ -2853,7 +2853,7 @@
         ]
     },
     {
-        "name": "pike",
+        "name": "z_internal_pike",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/pike/pike.g4",
         "start": "program",
@@ -2863,7 +2863,7 @@
         ]
     },
     {
-        "name": "pl0",
+        "name": "z_internal_pl0",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/pl0/pl0.g4",
         "start": "program",
@@ -2874,7 +2874,7 @@
         ]
     },
     {
-        "name": "ply",
+        "name": "z_internal_ply",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ply/ply.g4",
         "start": "ply",
@@ -2887,7 +2887,7 @@
         ]
     },
     {
-        "name": "postalcode",
+        "name": "z_internal_postalcode",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/postalcode/postalcode.g4",
         "start": "postalcode",
@@ -2896,7 +2896,7 @@
         ]
     },
     {
-        "name": "PowerBuilder",
+        "name": "z_internal_PowerBuilder",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/powerbuilder/PowerBuilderLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/powerbuilder/PowerBuilderParser.g4",
         "start": "start_rule",
@@ -2916,7 +2916,7 @@
         ]
     },
     {
-        "name": "prolog",
+        "name": "z_internal_prolog",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/prolog/prolog.g4",
         "start": "p_text",
@@ -2925,7 +2925,7 @@
         ]
     },
     {
-        "name": "PromQL",
+        "name": "z_internal_PromQL",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/promql/PromQLLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/promql/PromQLParser.g4",
         "start": "expression",
@@ -2961,7 +2961,7 @@
         ]
     },
     {
-        "name": "propcalc",
+        "name": "z_internal_propcalc",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/propcalc/propcalc.g4",
         "start": "proposition",
@@ -2977,7 +2977,7 @@
         ]
     },
     {
-        "name": "Properties",
+        "name": "z_internal_Properties",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/properties/PropertiesLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/properties/PropertiesParser.g4",
         "start": "propertiesFile",
@@ -2989,7 +2989,7 @@
         ]
     },
     {
-        "name": "Protobuf2",
+        "name": "z_internal_Protobuf2",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/protobuf2/Protobuf2.g4",
         "start": "proto",
@@ -2998,7 +2998,7 @@
         ]
     },
     {
-        "name": "Protobuf3",
+        "name": "z_internal_Protobuf3",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/protobuf3/Protobuf3.g4",
         "start": "proto",
@@ -3012,7 +3012,7 @@
         ]
     },
     {
-        "name": "PROV_N",
+        "name": "z_internal_PROV_N",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/prov-n/PROV_N.g4",
         "start": "document",
@@ -3024,7 +3024,7 @@
         ]
     },
     {
-        "name": "Python",
+        "name": "z_internal_Python",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/python/python2_7_18/PythonLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/python/python2_7_18/PythonParser.g4",
         "start": "file_input",
@@ -3057,7 +3057,7 @@
         ]
     },
     {
-        "name": "qif",
+        "name": "z_internal_qif",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/qif/qifLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/qif/qifParser.g4",
         "start": "qif",
@@ -3067,7 +3067,7 @@
         ]
     },
     {
-        "name": "quakemap",
+        "name": "z_internal_quakemap",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/quakemap/quakemap.g4",
         "start": "map_",
@@ -3076,7 +3076,7 @@
         ]
     },
     {
-        "name": "BSL",
+        "name": "z_internal_BSL",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/racket-bsl/BSL.g4",
         "start": "program",
@@ -3085,7 +3085,7 @@
         ]
     },
     {
-        "name": "ISL",
+        "name": "z_internal_ISL",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/racket-isl/ISL.g4",
         "start": "program",
@@ -3094,7 +3094,7 @@
         ]
     },
     {
-        "name": "recfile",
+        "name": "z_internal_recfile",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/recfile/recfile.g4",
         "start": "file_",
@@ -3104,7 +3104,7 @@
         ]
     },
     {
-        "name": "redcode",
+        "name": "z_internal_redcode",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/redcode/redcode.g4",
         "start": "file_",
@@ -3117,7 +3117,7 @@
         ]
     },
     {
-        "name": "refal",
+        "name": "z_internal_refal",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/refal/refal.g4",
         "start": "file_",
@@ -3126,7 +3126,7 @@
         ]
     },
     {
-        "name": "Rego",
+        "name": "z_internal_Rego",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/rego/RegoLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/rego/RegoParser.g4",
         "start": "root",
@@ -5089,7 +5089,7 @@
         ]
     },
     {
-        "name": "domain",
+        "name": "z_internal_domain",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/rfc1035/domain.g4",
         "start": "domain",
@@ -5100,7 +5100,7 @@
         ]
     },
     {
-        "name": "filter",
+        "name": "z_internal_filter",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/rfc1960/filter.g4",
         "start": "file_",
@@ -5112,7 +5112,7 @@
         ]
     },
     {
-        "name": "datetime",
+        "name": "z_internal_datetime",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/rfc822/rfc822-datetime/datetime.g4",
         "start": "date_time",
@@ -5122,7 +5122,7 @@
         ]
     },
     {
-        "name": "emailaddress",
+        "name": "z_internal_emailaddress",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/rfc822/rfc822-emailaddress/emailaddress.g4",
         "start": "emailaddress",
@@ -5139,7 +5139,7 @@
         ]
     },
     {
-        "name": "robotwar",
+        "name": "z_internal_robotwar",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/robotwars/robotwar.g4",
         "start": "program",
@@ -5156,7 +5156,7 @@
         ]
     },
     {
-        "name": "romannumerals",
+        "name": "z_internal_romannumerals",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/romannumerals/romannumerals.g4",
         "start": "expression",
@@ -5167,7 +5167,7 @@
         ]
     },
     {
-        "name": "ron",
+        "name": "z_internal_ron",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ron/ron.g4",
         "start": "ron_",
@@ -5178,7 +5178,7 @@
         ]
     },
     {
-        "name": "rpn",
+        "name": "z_internal_rpn",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/rpn/rpn.g4",
         "start": "expression",
@@ -5199,7 +5199,7 @@
         ]
     },
     {
-        "name": "Corundum",
+        "name": "z_internal_Corundum",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ruby/Corundum.g4",
         "start": "prog",
@@ -5208,7 +5208,7 @@
         ]
     },
     {
-        "name": "Scala",
+        "name": "z_internal_Scala",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/scala/Scala.g4",
         "start": "compilationUnit",
@@ -5222,7 +5222,7 @@
         ]
     },
     {
-        "name": "scotty",
+        "name": "z_internal_scotty",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/scotty/scotty.g4",
         "start": "prog",
@@ -5231,7 +5231,7 @@
         ]
     },
     {
-        "name": "Scss",
+        "name": "z_internal_Scss",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/scss/ScssLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/scss/ScssParser.g4",
         "start": "stylesheet",
@@ -5333,7 +5333,7 @@
         ]
     },
     {
-        "name": "SemanticVersion",
+        "name": "z_internal_SemanticVersion",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/semver/SemanticVersionLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/semver/SemanticVersionParser.g4",
         "start": "semver",
@@ -5354,7 +5354,7 @@
         ]
     },
     {
-        "name": "sexpression",
+        "name": "z_internal_sexpression",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sexpression/sexpression.g4",
         "start": "sexpr",
@@ -5364,7 +5364,7 @@
         ]
     },
     {
-        "name": "sgf",
+        "name": "z_internal_sgf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sgf/sgf.g4",
         "start": "collection",
@@ -5373,7 +5373,7 @@
         ]
     },
     {
-        "name": "sici",
+        "name": "z_internal_sici",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sici/sici.g4",
         "start": "sici",
@@ -5383,7 +5383,7 @@
         ]
     },
     {
-        "name": "sieve",
+        "name": "z_internal_sieve",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sieve/sieve.g4",
         "start": "start",
@@ -5392,7 +5392,7 @@
         ]
     },
     {
-        "name": "Smalltalk",
+        "name": "z_internal_Smalltalk",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/smalltalk/Smalltalk.g4",
         "start": "script",
@@ -5401,7 +5401,7 @@
         ]
     },
     {
-        "name": "smiles",
+        "name": "z_internal_smiles",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/smiles/smiles.g4",
         "start": "smiles",
@@ -5421,7 +5421,7 @@
         ]
     },
     {
-        "name": "SMTLIBv2",
+        "name": "z_internal_SMTLIBv2",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/smtlibv2/SMTLIBv2.g4",
         "start": "start",
@@ -5457,7 +5457,7 @@
         ]
     },
     {
-        "name": "snobol",
+        "name": "z_internal_snobol",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/snobol/snobol.g4",
         "start": "prog",
@@ -5468,7 +5468,7 @@
         ]
     },
     {
-        "name": "Sparql",
+        "name": "z_internal_Sparql",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sparql/SparqlLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sparql/SparqlParser.g4",
         "start": "query",
@@ -5482,7 +5482,7 @@
         ]
     },
     {
-        "name": "Spass",
+        "name": "z_internal_Spass",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/spass/SpassLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/spass/SpassParser.g4",
         "start": "problem",
@@ -5493,7 +5493,7 @@
         ]
     },
     {
-        "name": "Athena",
+        "name": "z_internal_Athena",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/athena/AthenaLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/athena/AthenaParser.g4",
         "start": "stmt",
@@ -5512,7 +5512,7 @@
         ]
     },
     {
-        "name": "Derby",
+        "name": "z_internal_Derby",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/derby/DerbyLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/derby/DerbyParser.g4",
         "start": "derby_file",
@@ -5525,7 +5525,7 @@
         ]
     },
     {
-        "name": "Drill",
+        "name": "z_internal_Drill",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/drill/DrillLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/drill/DrillParser.g4",
         "start": "drill_file",
@@ -5537,7 +5537,7 @@
         ]
     },
     {
-        "name": "Hive",
+        "name": "z_internal_Hive",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/hive/v2/HiveLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/hive/v2/HintParser.g4",
         "start": "statements",
@@ -5555,7 +5555,7 @@
         ]
     },
     {
-        "name": "Hive",
+        "name": "z_internal_Hive",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/hive/v3/HiveLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/hive/v3/HintParser.g4",
         "start": "statements",
@@ -5572,7 +5572,7 @@
         ]
     },
     {
-        "name": "Hive",
+        "name": "z_internal_Hive",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/hive/v4/HiveLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/hive/v4/HiveParser.g4",
         "start": "statement",
@@ -5586,7 +5586,7 @@
         ]
     },
     {
-        "name": "InformixSQL",
+        "name": "z_internal_InformixSQL",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/informix-sql/InformixSQLLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/informix-sql/InformixSQLParser.g4",
         "start": "sqlScript",
@@ -5628,7 +5628,7 @@
         ]
     },
     {
-        "name": "MariaDB",
+        "name": "z_internal_MariaDB",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/mariadb/MariaDBLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/mariadb/MariaDBParser.g4",
         "start": "root",
@@ -5659,7 +5659,7 @@
         ]
     },
     {
-        "name": "MySql",
+        "name": "z_internal_MySql",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/mysql/Positive-Technologies/MySqlLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/mysql/Positive-Technologies/MySqlParser.g4",
         "start": "root",
@@ -5691,7 +5691,7 @@
         ]
     },
     {
-        "name": "Phoenix",
+        "name": "z_internal_Phoenix",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/phoenix/PhoenixLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/phoenix/PhoenixParser.g4",
         "start": "phoenix_file",
@@ -5702,7 +5702,7 @@
         ]
     },
     {
-        "name": "Snowflake",
+        "name": "z_internal_Snowflake",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/snowflake/SnowflakeLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/snowflake/SnowflakeParser.g4",
         "start": "snowflake_file",
@@ -5750,7 +5750,7 @@
         ]
     },
     {
-        "name": "SQLite",
+        "name": "z_internal_SQLite",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/sqlite/SQLiteLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/sqlite/SQLiteParser.g4",
         "start": "parse",
@@ -5770,7 +5770,7 @@
         ]
     },
     {
-        "name": "Trino",
+        "name": "z_internal_Trino",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/trino/TrinoLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/trino/TrinoParser.g4",
         "start": "parse",
@@ -5872,7 +5872,7 @@
         ]
     },
     {
-        "name": "TSql",
+        "name": "z_internal_TSql",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/tsql/TSqlLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/sql/tsql/TSqlParser.g4",
         "start": "tsql_file",
@@ -6017,7 +6017,7 @@
         ]
     },
     {
-        "name": "star",
+        "name": "z_internal_star",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/star/star.g4",
         "start": "star",
@@ -6028,7 +6028,7 @@
         ]
     },
     {
-        "name": "stellaris",
+        "name": "z_internal_stellaris",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/stellaris/stellaris.g4",
         "start": "content",
@@ -6045,7 +6045,7 @@
         ]
     },
     {
-        "name": "SUOKIF",
+        "name": "z_internal_SUOKIF",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/suokif/SUOKIF.g4",
         "start": "top_level",
@@ -6055,7 +6055,7 @@
         ]
     },
     {
-        "name": "SwiftFin",
+        "name": "z_internal_SwiftFin",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/swift-fin/SwiftFinLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/swift-fin/SwiftFinParser.g4",
         "start": "messages",
@@ -6067,7 +6067,7 @@
         ]
     },
     {
-        "name": "szf",
+        "name": "z_internal_szf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/szf/szf.g4",
         "start": "file_",
@@ -6077,7 +6077,7 @@
         ]
     },
     {
-        "name": "tcp",
+        "name": "z_internal_tcp",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tcpheader/tcp.g4",
         "start": "segmentheader",
@@ -6086,7 +6086,7 @@
         ]
     },
     {
-        "name": "Teal",
+        "name": "z_internal_Teal",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/teal/Teal.g4",
         "start": "chunk",
@@ -6097,7 +6097,7 @@
         ]
     },
     {
-        "name": "telephone",
+        "name": "z_internal_telephone",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/telephone/telephone.g4",
         "start": "test",
@@ -6109,7 +6109,7 @@
         ]
     },
     {
-        "name": "terraform",
+        "name": "z_internal_terraform",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/terraform/terraform.g4",
         "start": "file_",
@@ -6132,7 +6132,7 @@
         ]
     },
     {
-        "name": "Thrift",
+        "name": "z_internal_Thrift",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/thrift/Thrift.g4",
         "start": "document",
@@ -6166,7 +6166,7 @@
         ]
     },
     {
-        "name": "tiny",
+        "name": "z_internal_tiny",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tiny/tiny.g4",
         "start": "program",
@@ -6177,7 +6177,7 @@
         ]
     },
     {
-        "name": "tinybasic",
+        "name": "z_internal_tinybasic",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tinybasic/tinybasic.g4",
         "start": "program",
@@ -6186,7 +6186,7 @@
         ]
     },
     {
-        "name": "tinyc",
+        "name": "z_internal_tinyc",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tinyc/tinyc.g4",
         "start": "program",
@@ -6199,7 +6199,7 @@
         ]
     },
     {
-        "name": "tinymud",
+        "name": "z_internal_tinymud",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tinymud/tinymud.g4",
         "start": "prog",
@@ -6208,7 +6208,7 @@
         ]
     },
     {
-        "name": "tnsnames",
+        "name": "z_internal_tnsnames",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tnsnames/tnsnamesLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tnsnames/tnsnamesParser.g4",
         "start": "tnsnames",
@@ -6217,7 +6217,7 @@
         ]
     },
     {
-        "name": "tnt",
+        "name": "z_internal_tnt",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tnt/tnt.g4",
         "start": "equation",
@@ -6236,7 +6236,7 @@
         ]
     },
     {
-        "name": "Toml",
+        "name": "z_internal_Toml",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/toml/TomlLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/toml/TomlParser.g4",
         "start": "document",
@@ -6248,7 +6248,7 @@
         ]
     },
     {
-        "name": "trac",
+        "name": "z_internal_trac",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/trac/trac.g4",
         "start": "program",
@@ -6260,7 +6260,7 @@
         ]
     },
     {
-        "name": "tsv",
+        "name": "z_internal_tsv",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/tsv/tsv.g4",
         "start": "tsvFile",
@@ -6269,7 +6269,7 @@
         ]
     },
     {
-        "name": "ttm",
+        "name": "z_internal_ttm",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/ttm/ttm.g4",
         "start": "program",
@@ -6279,7 +6279,7 @@
         ]
     },
     {
-        "name": "turing",
+        "name": "z_internal_turing",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/turing/turing.g4",
         "start": "program",
@@ -6289,7 +6289,7 @@
         ]
     },
     {
-        "name": "TURTLE",
+        "name": "z_internal_TURTLE",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/turtle/TURTLE.g4",
         "start": "turtleDoc",
@@ -6299,7 +6299,7 @@
         ]
     },
     {
-        "name": "Graphemes",
+        "name": "z_internal_Graphemes",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/unicode/graphemes/Graphemes.g4",
         "start": "graphemes",
@@ -6310,7 +6310,7 @@
         ]
     },
     {
-        "name": "UnrealAngelscript",
+        "name": "z_internal_UnrealAngelscript",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/unreal_angelscript/UnrealAngelscriptLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/unreal_angelscript/UnrealAngelscriptParser.g4",
         "start": "script",
@@ -6319,7 +6319,7 @@
         ]
     },
     {
-        "name": "Upnp",
+        "name": "z_internal_Upnp",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/upnp/Upnp.g4",
         "start": "searchCrit",
@@ -6332,7 +6332,7 @@
         ]
     },
     {
-        "name": "url",
+        "name": "z_internal_url",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/url/url.g4",
         "start": "url",
@@ -6369,7 +6369,7 @@
         ]
     },
     {
-        "name": "useragent",
+        "name": "z_internal_useragent",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/useragent/useragent.g4",
         "start": "prog",
@@ -6382,7 +6382,7 @@
         ]
     },
     {
-        "name": "VisualBasic6",
+        "name": "z_internal_VisualBasic6",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/vb6/VisualBasic6Lexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/vb6/VisualBasic6Parser.g4",
         "start": "startRule",
@@ -6456,7 +6456,7 @@
         ]
     },
     {
-        "name": "vba",
+        "name": "z_internal_vba",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/vba/vba.g4",
         "start": "startRule",
@@ -6474,7 +6474,7 @@
         ]
     },
     {
-        "name": "SystemVerilog",
+        "name": "z_internal_SystemVerilog",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/verilog/systemverilog/SystemVerilogLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/verilog/systemverilog/SystemVerilogParser.g4",
         "start": "source_text",
@@ -6602,7 +6602,7 @@
         ]
     },
     {
-        "name": "Verilog",
+        "name": "z_internal_Verilog",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/verilog/verilog/VerilogLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/verilog/verilog/VerilogParser.g4",
         "start": "source_text",
@@ -6619,7 +6619,7 @@
         ]
     },
     {
-        "name": "vhdl",
+        "name": "z_internal_vhdl",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/vhdl/vhdl.g4",
         "start": "design_file",
@@ -6641,7 +6641,7 @@
         ]
     },
     {
-        "name": "vmf",
+        "name": "z_internal_vmf",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/vmf/vmf.g4",
         "start": "vmf",
@@ -6650,7 +6650,7 @@
         ]
     },
     {
-        "name": "Wat",
+        "name": "z_internal_Wat",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/wat/WatLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/wat/WatParser.g4",
         "start": "module",
@@ -6659,7 +6659,7 @@
         ]
     },
     {
-        "name": "WavefrontOBJ",
+        "name": "z_internal_WavefrontOBJ",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/wavefront/WavefrontOBJ.g4",
         "start": "start",
@@ -6697,7 +6697,7 @@
         ]
     },
     {
-        "name": "WebIDL",
+        "name": "z_internal_WebIDL",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/webidl/WebIDL.g4",
         "start": "webIDL",
@@ -6707,7 +6707,7 @@
         ]
     },
     {
-        "name": "wkt",
+        "name": "z_internal_wkt",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/wkt/wkt.g4",
         "start": "file_",
@@ -6716,7 +6716,7 @@
         ]
     },
     {
-        "name": "wktcrsv1",
+        "name": "z_internal_wktcrsv1",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/wkt-crs-v1/wktcrsv1.g4",
         "start": "propsFile",
@@ -6725,7 +6725,7 @@
         ]
     },
     {
-        "name": "wln",
+        "name": "z_internal_wln",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/wln/wln.g4",
         "start": "wln",
@@ -6744,7 +6744,7 @@
         ]
     },
     {
-        "name": "Wren",
+        "name": "z_internal_Wren",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/wren/WrenLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/wren/WrenParser.g4",
         "start": "script",
@@ -6760,7 +6760,7 @@
         ]
     },
     {
-        "name": "XML",
+        "name": "z_internal_XML",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/xml/XMLLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/xml/XMLParser.g4",
         "start": "document",
@@ -6771,7 +6771,7 @@
         ]
     },
     {
-        "name": "xpath",
+        "name": "z_internal_xpath",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/xpath/xpath1/xpath.g4",
         "start": "main",
@@ -6783,7 +6783,7 @@
         ]
     },
     {
-        "name": "regex",
+        "name": "z_internal_regex",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/xsd-regex/regexLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/xsd-regex/regexParser.g4",
         "start": "root",
@@ -6796,7 +6796,7 @@
         ]
     },
     {
-        "name": "xyz",
+        "name": "z_internal_xyz",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/xyz/xyz.g4",
         "start": "file_",
@@ -6806,7 +6806,7 @@
         ]
     },
     {
-        "name": "Yara",
+        "name": "z_internal_Yara",
         "lexer": "https://raw.githubusercontent.com/antlr/grammars-v4/master/yara/YaraLexer.g4",
         "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/yara/YaraParser.g4",
         "start": "startRule",
