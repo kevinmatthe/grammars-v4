@@ -2684,6 +2684,15 @@
   ]
  },
  {
+    "name": "A_owls_expr",
+    "lexer": "",
+    "parser": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owls_expr.g4",
+    "start": "root",
+    "example": [
+     "example1.txt"
+    ]
+   },
+ {
   "name": "p",
   "lexer": "",
   "parser": "https://raw.githubusercontent.com/antlr/grammars-v4/master/p/p.g4",
