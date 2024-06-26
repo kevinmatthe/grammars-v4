@@ -1,4 +1,4 @@
-grammar patterns;
+parser grammar patterns;
 
 root: rule EOF;
 
@@ -46,34 +46,3 @@ base_value: STRING;
 operator: AND | OR | NOT | NEAR;
 
 delimiter: LPAREN | RPAREN | LSQUARE | RSQUARE;
-// Reserved words
-AND: 'AND';
-OR: 'OR';
-NOT: 'NOT';
-NEAR: 'NEAR';
-
-// Tokens
-NUMBER: [0-9]+;
-
-NAME: ~[ +/()<>[\]]+;
-
-STRING: '"' ( ~["\\\n\r] | '\\' .)* '"';
-
-// Operators
-PLUS: '+';
-DIVIDE: '/';
-MINUS: '-';
-
-// Delimiters
-LPAREN: '(';
-RPAREN: ')';
-LSQUARE: '[';
-RSQUARE: ']';
-LTSIGN: '<';
-GTSIGN: '>';
-EQUAL: '=';
-COLON: ':';
-NEAROP: '<near/' [0-9]+ '>';
-
-// Whitespace
-WS: [ \t\r\n]+ -> skip;

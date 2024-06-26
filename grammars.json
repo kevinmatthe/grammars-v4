@@ -10,8 +10,8 @@
     },
     {
         "name": "owls_expr",
-        "lexer": "",
-        "parser": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owls_expr.g4",
+        "lexer": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owls_expr_lexer.g4",
+        "parser": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owls_expr_parser.g4",
         "start": "root",
         "example": [
             "example1.txt"
