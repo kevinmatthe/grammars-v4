@@ -9,7 +9,7 @@
         ]
     },
     {
-        "name": "0A_owls_expr",
+        "name": "a_owls_expr",
         "lexer": "",
         "parser": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owls_expr.g4",
         "start": "root",
