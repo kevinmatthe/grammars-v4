@@ -14,7 +14,9 @@
         "parser": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owls_expr_parser.g4",
         "start": "root",
         "example": [
-            "example1.txt"
+            "example_1.txt",
+            "example_wrong_bracket_1.txt",
+            "example_wrong_bracket_2.txt"
         ]
     },
     {

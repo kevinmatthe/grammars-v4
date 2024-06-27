@@ -1,4 +1,4 @@
-lexer grammar patterns;
+lexer grammar owlsExprLexer;
 
 options { caseInsensitive = true; }
 
@@ -11,7 +11,7 @@ NEAR: 'NEAR';
 // Tokens
 NUMBER: [0-9]+;
 
-NAME: ~[ +/()<>[\]]+;
+NAME: ~[ +-/:=()<>[\]]+;
 
 STRING: '"' ( ~["\\\n\r] | '\\' .)* '"';
 

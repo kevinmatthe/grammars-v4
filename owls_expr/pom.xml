@@ -18,7 +18,8 @@
 				<configuration>
 					<sourceDirectory>${basedir}</sourceDirectory>
 					<includes>
-					   <include>owls_expr.g4</include>
+					   <include>owlsExprLexer.g4</include>
+					   <include>owlsExprParser.g4</include>
 					</includes>
 					<visitor>true</visitor>
 					<listener>true</listener>
