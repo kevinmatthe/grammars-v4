@@ -11,7 +11,7 @@
     {
         "name": "owls_expr",
         "lexer": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owlsExprLexer.g4",
-        "parser": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owlsExprparser.g4",
+        "parser": "https://raw.githubusercontent.com/kevinmatthe/grammars-v4/master/owls_expr/owlsExprParser.g4",
         "start": "root",
         "example": [
             "example_1.txt",
