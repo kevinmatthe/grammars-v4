@@ -1,4 +1,4 @@
-lexer grammar owlsExprLexer;
+lexer grammar OwlsExprLexer;
 
 options { caseInsensitive = true; }
 

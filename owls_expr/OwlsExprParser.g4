@@ -1,7 +1,7 @@
-parser grammar owlsExprParser;
+parser grammar OwlsExprParser;
 
 options {
-	tokenVocab = patternsLexer;
+	tokenVocab = OwlsExprLexer;
 }
 
 root: rule EOF;
